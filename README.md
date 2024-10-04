@@ -6,7 +6,8 @@ The practical project of the course Econophysics of FDU
 - [ ] **DWJ** J.-P. Bouchaud and D. Sornette, The Black-Scholes option pricing problem in mathematical finance : Generalization and extensions for a large class of stochastic processes, J.Phys.I France 4, 863-881 (1994) 
 - [ ] **DWJ** Other relevant essays 
 - [ ] **PYJ** coding material, GitHub 
-- [ ] **FRY** Download the historical daily data of Shanghai Composite Index 
+- [ ] **FRY** Download the historical daily data of Shanghai Composite Index
+- [ ] **PYJ** Open up a Github repository and invite you guys
 - [ ] **Everybody** deduce required part of the textbook by self
 ## 1.2 GOAL I
 - [ ] **DWJ** Based on the technique described in section 6.4.3 of the textbook, the historical data of the Shanghai Composite Index is used to price its options. 
@@ -21,8 +22,7 @@ The practical project of the course Econophysics of FDU
 - [ ] **PYJ** Calculate the theoretical curve of "implied volatility smile"(Python,CPP)
 - [ ] **DWJ,FRY** Please compare it with the curves drawn by the two items for discussion; Discuss the bias of pricing outcomes for different price movements and the shape of volatility smiles
 ## 1.6 Essay (Overleaf coorperation)
-- [ ] **PYJ** Summarize and write a script of math formulas used 
-- [ ] **PYJ** Open up a Github repository and invite you guys
+- [ ] **PYJ** Summarize and write a script of math and algorithm formulas used 
 - [ ] **FRY** Beautify the figures of the essay and zip them together to upload
 - [ ] **DWJ** Make sense of others' result
 - [ ] **DWJ** Research purpose, subject content,research method, research results, discussion and investigation, Conclusion
